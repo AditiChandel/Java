@@ -41,8 +41,8 @@ The objective of the game is to break all the bricks using a ball that bounces o
 ## Contact
 
 - Email: aditichandel576@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/AditiChandel)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditi-chandel-49114a2b5/)
+- GitHub: [Click Here!](https://github.com/AditiChandel)
+- LinkedIn: [Click Here!](https://www.linkedin.com/in/aditi-chandel-49114a2b5/)
 
 ## Contributions
 
@@ -54,10 +54,6 @@ Contributions to improve the game are welcome! If you'd like to contribute, plea
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
-
----
-Certainly! Here's the updated README.md with your contact information, GitHub profile link, and LinkedIn profile link:
-
 ---
 
 
