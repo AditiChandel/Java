@@ -1,5 +1,3 @@
-Sure, here's a README.md template based on your code for the Brick Breaker game:
-
 ---
 
 # Brick Breaker Game
