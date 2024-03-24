@@ -38,8 +38,13 @@ The objective of the game is to break all the bricks using a ball that bounces o
 - High score tracking.
 - Colorful graphics using Java's Graphics2D and AWT libraries.
 
+## Contact
 
-## Contributing
+- Email: aditichandel576@gmail.com
+- GitHub: [Your GitHub Profile](https://github.com/AditiChandel)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditi-chandel-49114a2b5/)
+
+## Contributions
 
 Contributions to improve the game are welcome! If you'd like to contribute, please follow these steps:
 
@@ -51,3 +56,9 @@ Contributions to improve the game are welcome! If you'd like to contribute, plea
 6. Create a new Pull Request.
 
 ---
+Certainly! Here's the updated README.md with your contact information, GitHub profile link, and LinkedIn profile link:
+
+---
+
+
+
